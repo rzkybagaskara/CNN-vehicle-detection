@@ -1,4 +1,4 @@
-# Repository untuk menyimpan tugas Kecerdasan Buatan. 
+## Repository untuk menyimpan tugas Kecerdasan Buatan. 
 Pendeteksian gambar apakah termasuk ke dalam kendaraan atau bukan.
 
 Dataset:
